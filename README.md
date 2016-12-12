@@ -2,6 +2,7 @@
 
 Ce projet a pour but de vous aider à utiliser une **API** facilement accessible.
 
+![shema api last.fm](https://raw.githubusercontent.com/simplonco/api-lastfm/master/api.png)
 
 Récupérer le projet
 -------------
